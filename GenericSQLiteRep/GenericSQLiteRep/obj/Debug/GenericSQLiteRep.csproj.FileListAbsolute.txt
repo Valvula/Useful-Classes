@@ -1,0 +1,15 @@
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\bin\Debug\GenericSQLiteRep.exe.config
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\bin\Debug\GenericSQLiteRep.exe
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\bin\Debug\GenericSQLiteRep.pdb
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\bin\Debug\SQLite-net.dll
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\bin\Debug\SQLite-net.xml
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\obj\Debug\GenericSQLiteRep.csprojAssemblyReference.cache
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\obj\Debug\GenericSQLiteRep.csproj.CopyComplete
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\obj\Debug\GenericSQLiteRep.exe
+C:\Users\Valvula\source\repos\GenericSQLiteRep\GenericSQLiteRep\obj\Debug\GenericSQLiteRep.pdb

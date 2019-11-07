@@ -1,0 +1,6 @@
+C:\Users\Valvula\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\Valvula\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\Valvula\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\Valvula\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.csprojAssemblyReference.cache
+C:\Users\Valvula\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\Valvula\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
